@@ -28,7 +28,7 @@ In production AI applications, users frequently query the same data repeatedly. 
 
 Install directly from source:
 ```bash
-pip install git+https://github.com/[YOUR-USERNAME]/llm-cache.git
+pip install git+https://github.com/Ruchit-Developer/llm-cache.git
 ```
 
 ---
